@@ -1,0 +1,7 @@
+//Junxiang Liu
+//4/15/2018
+//README File
+
+
+Read the file and insert the key and data into binary search tree in order
+using print, delete, find, max, min, readfile, write file methods.
